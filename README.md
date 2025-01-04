@@ -1,2 +1,3 @@
-# math-operations
+# Math operations
+
 Implementation of functions to perform common math operations.
